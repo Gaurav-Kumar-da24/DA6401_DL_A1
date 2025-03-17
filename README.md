@@ -1,7 +1,7 @@
 # Neural Network Implementation for Fashion MNIST Classification
 
 ## GitHub and Report
-- Github: https://github.com/Gaurav-Kumar-da24/DA6401_DL_A1
+- Github: https://github.com/Gaurav-Kumar-da24/da6401_assignment1
 - Report: https://wandb.ai/da24m006-iit-madras/DA6401_DL_A1/reports/DA6401-Assignment-1--VmlldzoxMTgzNDA1Mw?accessToken=le64p2nq4lhkuj25zo87r7vla25hy6wmosi3i69xbncqgtfm97sc071yn52g5lqi
 
 This repository contains a custom implementation of a feedforward neural network for image classification on the Fashion MNIST dataset. The implementation includes various optimizers, activation functions, loss functions, and hyperparameter tuning capabilities using Weights & Biases (wandb).
